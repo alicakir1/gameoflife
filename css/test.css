@@ -1,0 +1,40 @@
+body {
+	background-color: #808080;
+}
+div#gameoflife {
+	background-color: #808080;
+	margin:20px;
+}
+div#gameoflife canvas{
+	margin-top: 10px;
+	background: #4286f4;
+}
+div#gameoflife div#settings button{
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+div#gameoflife div#settings button#nextStepbtn{
+	margin-right: 5px;
+}
+div#gameoflife div#settings button#playstopbtn{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+div#gameoflife div#settings button#randombtn{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+div#gameoflife div#settings button#zoombtn{
+	margin-left: 5px;
+}
+div#gameoflife div#settings{
+	background: #4286f4;
+}
+div.inline {
+	float:left;
+}
+.clearBoth {
+	clear:both;
+}
